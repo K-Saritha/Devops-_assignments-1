@@ -1,0 +1,1 @@
+console.log("demo file for DevOps Assignment 1");
