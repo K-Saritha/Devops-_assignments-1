@@ -1,1 +1,5 @@
-console.log("Feature: API endpoint added");
+function healthCheck() {
+  return "OK";
+}
+
+console.log(healthCheck());
